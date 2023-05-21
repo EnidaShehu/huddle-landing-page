@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [(https://github.com/EnidaShehu/huddle-landing-page/tree/main)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://enidashehu.github.io/huddle-landing-page/]
 
 ### Built with
 
